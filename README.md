@@ -79,6 +79,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
 
+* [GangSkins](https://gangskins.netlify.app/) - Check for all the matching skins your friends and you have then build your flex skins builds.
+
 ## External Apps
 
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
